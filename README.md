@@ -5,4 +5,8 @@ This is a basic project built to practice my HTML and CSS3 fundamental skills. I
 <br />
 https://cardapio-digital-fc.onrender.com
 <br />
+<br />
 https://cardapio-degital-fc.netlify.app/
+<br />
+<br />
+https://felizardocaculo.github.io/cardapio-digital-fc/

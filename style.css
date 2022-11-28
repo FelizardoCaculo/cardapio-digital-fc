@@ -77,3 +77,15 @@ h1, h2, h3, .price {
     text-transform: uppercase;
     color: #2D2C2A;
 }
+
+footer p {
+    text-align: center;
+    margin-top: 20px;
+    padding-bottom: 25px;
+    color: rgba(0, 0, 0, 0.6); /* 60% */
+}
+
+footer p a {
+    text-decoration: none;
+    color: #995000;
+}
